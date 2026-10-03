@@ -62,5 +62,5 @@ The name **Matcha.exe** was chosen to merge the traditional freshness of matcha 
 This project was developed by Monahu. If you are a recruiter, a food business owner, or a fellow developer looking to collaborate, feel free to reach out:
 
 * **LinkedIn**:[Maulana Hudzalifah](https://www.linkedin.com/in/maulana-hudzalifah-b6b261397/)
-* **Email**: [email@domain.com](mailto:your-email@domain.com)
+* **Email**: [Maulana Hudzalifah](maulanahudzalifahh@gmail.com)
 * **GitHub**: [Maulana Hudzalifah](https://github.com/Maulana-hudzalifah)
